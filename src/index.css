@@ -1,0 +1,55 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.tour-header{
+  background-color:pink;
+  height: 3rem;
+  border-bottom: 2px solid salmon;
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: lighter;
+}
+.tour-orders{
+   background-color:rgb(224, 63, 96);
+   height: 10rem;
+   text-align: center;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: lighter;
+   
+}
+.tour-orders>h1{
+  line-height: 10rem;
+}
+
+.tour-external-links{
+  background-color: cyan;
+  height: 50rem;
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: lighter;
+}
+.tour-external-links>h1{
+  line-height: 50rem;
+}
+
+.tour-footer{
+  background-color: darkcyan;
+  height: 10rem;
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: lighter;
+}
+.tour-footer>h1{
+  line-height: 10rem;
+}
+
+.button{
+      padding: 1rem 1rem;
+      background-color: darkgoldenrod;
+      border: 2px solid white;
+      margin-left: 48rem;
+      margin-top: 1rem;
+      cursor: pointer;
+}
